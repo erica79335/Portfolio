@@ -1,0 +1,43 @@
+.row{
+  width: 100%;
+  height: 300px;
+}
+.col{
+  height: 135%;
+  width: 45%;
+  border: 3px solid black;
+  display: inline-block;
+  float:left;
+  text-align: center;
+
+}
+body{
+  background-color: #EDB151;
+}
+#textdiv{
+  background-color: #EDB151;
+  color : #5577E3;
+}
+h1{
+  text-align:center;
+}
+h2{
+  text-align:center;
+  color :5577E3;
+}
+
+
+#imagediv{
+  background-image: url(app.PNG);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  height:450px;
+}
+
+#pythondiv{
+  background-image: url(python.PNG);
+  background-repeat: no-repeat;
+  width:600px;
+   height:775px;
+   background-position:bottom;
+}
